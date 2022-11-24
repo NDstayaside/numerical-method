@@ -1,0 +1,25 @@
+h3 {
+    color: #212529;
+    font-size: 200%;
+    font-family: Bahnschrift;
+}
+input {
+    color: #4E5256;
+    font-size: 80%;
+    font-family: Bahnschrift;
+}
+.showAnswer{
+    color: #4E5256;
+    font-size: 120%;
+    font-family: Bahnschrift;
+}
+.secoundHead{
+    color: #4E5256;
+    font-size: 120%;
+    font-family: Bahnschrift;
+}
+.forMatrix{
+    color: #4E5256;
+    font-size: 100%;
+    font-family: Bahnschrift;
+}
